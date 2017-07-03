@@ -11,7 +11,7 @@ email: private
 description: > # this means to ignore newlines until "baseurl:"
   This site is still being planned
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://AleMazzITA.GitHub.io" # the base hostname & protocol for your site
 twitter_username: I don't have a Twitter account
 github_username:  AleMazzITA
 # Build settings
